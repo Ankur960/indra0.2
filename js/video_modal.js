@@ -1,0 +1,1 @@
+$(document).ready(function(){$(" .play-button").click(function(t){$("#youtube-frame").attr("src","https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1")})});
